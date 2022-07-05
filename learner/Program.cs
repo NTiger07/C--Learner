@@ -7,11 +7,15 @@ namespace MyFirstProgram
     {
         public static void Main(string[] args)
         {
-            List<String> food = new List<String>();
-            food.Add("pizza");
-            food.Add("melon");
-            food.Add("hotdog");
-            food.Add("fries");
+            List<Player> foodss = new List<Player>();
+        }
+    }
+    class Player
+    {
+        public String userName;
+        public Player(String userName)
+        {
+            this.userName = userName;
         }
     }
 }

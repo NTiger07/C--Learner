@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Favour\\Desktop\\Coding\\C#\\C# Learner\\learner\\learner.csproj",
+      "projectUniqueName": "C:\\Users\\Favour\\Desktop\\SWE\\C#\\C# Learner\\learner\\learner.csproj",
       "projectName": "learner",
-      "projectPath": "C:\\Users\\Favour\\Desktop\\Coding\\C#\\C# Learner\\learner\\learner.csproj",
+      "projectPath": "C:\\Users\\Favour\\Desktop\\SWE\\C#\\C# Learner\\learner\\learner.csproj",
       "packagesPath": "C:\\Users\\Favour\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Favour\\Desktop\\Coding\\C#\\C# Learner\\learner\\obj\\",
+      "outputPath": "C:\\Users\\Favour\\Desktop\\SWE\\C#\\C# Learner\\learner\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
