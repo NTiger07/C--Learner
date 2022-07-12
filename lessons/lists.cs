@@ -12,6 +12,17 @@ namespace MyFirstProgram
             food.Add("melon");
             food.Add("hotdog");
             food.Add("fries");
+
+            //food.Remove("fries");
+            //food.Insert(0, "fries");
+            //Console.WriteLine(food.Count);
+            //Console.WriteLine(food.IndexOf("melon"));
+            //Console.WriteLine(food.LastIndexOf("fries"));
+            //Console.WriteLine(food.Contains("pizza"));
+            //food.Sort();
+            //food.Reverse();
+            //food.Clear();
+            String[] foodArray = food.ToArray();
         }
     }
 }

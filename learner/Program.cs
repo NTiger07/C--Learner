@@ -1,5 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
+using System.Threading;
 
 namespace MyFirstProgram
 {
@@ -7,16 +7,10 @@ namespace MyFirstProgram
     {
         public static void Main(string[] args)
         {
-            List<Player> foodss = new List<Player>();
-        }
-    }
-    class Player
-    {
-        public String userName;
-        public Player(String userName)
-        {
-            this.userName = userName;
+            Console.WriteLine("C# MileStone Project begins here");
         }
     }
 }
+
+
 
